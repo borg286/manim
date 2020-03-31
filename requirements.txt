@@ -1,3 +1,7 @@
+mapbox_earcut
+moderngl_window
+moderngl
+ipython
 argparse==1.4.0
 colour==0.1.5
 numpy==1.16.4

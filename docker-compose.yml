@@ -3,7 +3,7 @@ version: '3.1'
 services:
   manim:
     # comment this line if you build the image to prevent overwriting the tag
-    image: eulertour/manim:latest
+    image: manim
     # uncomment this line to build rather than pull the image
     # build: .
     entrypoint:

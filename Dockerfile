@@ -2,6 +2,7 @@ FROM python:3.7
 RUN apt-get update \
     && apt-get install -qqy --no-install-recommends \
         apt-utils \
+        python-opengl \
         ffmpeg \
         sox \
         libcairo2-dev \
